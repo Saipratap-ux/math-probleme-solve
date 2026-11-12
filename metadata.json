@@ -1,0 +1,8 @@
+{
+  "name": "Socrates Math - Patient Socratic AI Math Tutor",
+  "description": "A compassionate, Socratic AI math tutor that guides students step-by-step through calculus and algebra problems from photos, patiently explaining 'Why did we do that?' without spoiling answers.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
